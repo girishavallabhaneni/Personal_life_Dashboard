@@ -26,7 +26,7 @@ Right now it visualizes:
 First make sure you have python3 installed and are using it throughout, since some of the syntax doesn't port over to python2.
 
 ```sh
-git clone https://github.com/Andreilys/personal_dashboard
+git clone https://github.com/girishavallabhaneni/personal_dashboard
 ```
 Install [Postgres](https://www.postgresql.org/download/)
 Now, enter your API credentials into personal\_info\_template.py and rename it to personal\_info.py. Run these commands next:
